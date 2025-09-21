@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 6439c818d854b9b4492406dada243414
+  productGUID: 70e64a291037d164b88df1b9b9cf9445
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: soloproject
+  productName: Gam
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -838,14 +838,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: soloproject
+  metroPackageName: Gam
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: soloproject
+  metroApplicationDescription: Gam
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -916,10 +916,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: d05a015e-0d05-4bcb-82f1-d61746d3e2c7
+  cloudProjectId: 547545ca-14b2-427b-8445-678429e1d962
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: soloproject
+  projectName: Gam
   organizationId: beullang172-gmail-com
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
